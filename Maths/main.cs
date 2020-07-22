@@ -22,7 +22,11 @@ namespace Maths
             // ors.Run();
 
             //Armstrong_Number
-            Armstrong ors = new Armstrong();
+            // Armstrong ors = new Armstrong();
+            // ors.Run();
+
+            //Mean_median_mode
+            MMM ors = new MMM();
             ors.Run();
         }
     }
