@@ -18,7 +18,11 @@ namespace Maths
             // ors.Run();
 
             // Area
-            Area ors = new Area();
+            // Area ors = new Area();
+            // ors.Run();
+
+            //Armstrong_Number
+            Armstrong ors = new Armstrong();
             ors.Run();
         }
     }
