@@ -14,7 +14,7 @@ class Absolute_value
         }
     }
 
-    public static void Main()
+    public static void Run()
     {
         Console.WriteLine("Enter the Value : \t");
 

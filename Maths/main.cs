@@ -14,7 +14,11 @@ namespace Maths
             // ors.Run();
 
             // Aliquot_Sum testing
-            Absolute_value ors =  new Absolute_value();
+            // Absolute_value ors =  new Absolute_value();
+            // ors.Run();
+
+            // Area
+            Area ors = new Area();
             ors.Run();
         }
     }
