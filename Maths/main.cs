@@ -26,7 +26,11 @@ namespace Maths
             // ors.Run();
 
             //Mean_median_mode
-            MMM ors = new MMM();
+            // MMM ors = new MMM();
+            // ors.Run();
+
+            //Brownie Ploffe
+            Brownie_Ploffe ors = new Brownie_Ploffe();
             ors.Run();
         }
     }
