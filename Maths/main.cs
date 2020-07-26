@@ -30,7 +30,11 @@ namespace Maths
             // ors.Run();
 
             //Brownie Ploffe
-            Brownie_Ploffe ors = new Brownie_Ploffe();
+            // Brownie_Ploffe ors = new Brownie_Ploffe();
+            // ors.Run();
+            
+            //Basic Maths
+            BasicMaths ors = new BasicMaths();
             ors.Run();
         }
     }
