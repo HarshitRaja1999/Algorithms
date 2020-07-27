@@ -42,7 +42,11 @@ namespace Maths
             // ors.Run();
 
             //Binary Exponentiation
-            BinaryExponentiation ors = new BinaryExponentiation();
+            // BinaryExponentiation ors = new BinaryExponentiation();
+            // ors.Run();
+
+            //Bionomial Coffecient
+            BionomialCoff ors = new BionomialCoff();
             ors.Run();
         }
     }
