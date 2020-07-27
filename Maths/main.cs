@@ -38,7 +38,11 @@ namespace Maths
             // ors.Run();
 
             //Binary Exp Mod
-            BinExpMod ors = new BinExpMod();
+            // BinExpMod ors = new BinExpMod();
+            // ors.Run();
+
+            //Binary Exponentiation
+            BinaryExponentiation ors = new BinaryExponentiation();
             ors.Run();
         }
     }
