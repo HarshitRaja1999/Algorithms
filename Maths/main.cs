@@ -34,7 +34,11 @@ namespace Maths
             // ors.Run();
             
             //Basic Maths
-            BasicMaths ors = new BasicMaths();
+            // BasicMaths ors = new BasicMaths();
+            // ors.Run();
+
+            //Binary Exp Mod
+            BinExpMod ors = new BinExpMod();
             ors.Run();
         }
     }
